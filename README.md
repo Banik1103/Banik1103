@@ -5,8 +5,6 @@
 ## Socials:
 [<img align="left" alt="Banik1103 | discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">](https://discord.com/users/423237671683620896)
 [<img align="left" alt="Banik1103 | twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/Banik1103)
-[<img align="left" alt="Banik1103 | email" width="24px" src="https://cdn.jsdelivr.net/npm/@internetarchive/icon-email@1.1.1/email.svg">](https://jeremi.kilimnik@gmail.com)
-
 <br>
 
 ## Current project I'm working on:
@@ -21,3 +19,4 @@
 
 <!--
 **Banik1103/Banik1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="Banik1103 | email" width="24px" src="https://cdn.jsdelivr.net/npm/@internetarchive/icon-email@1.1.1/email.svg">](https://jeremi.kilimnik@gmail.com)
