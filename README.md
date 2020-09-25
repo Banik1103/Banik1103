@@ -2,7 +2,7 @@
 
 ### The topics I like the most are python, flutter and cybersecurity.
 
-## Socials!
+## Socials:
 [<img align="left" alt="Banik#1103 | discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">](https://discord.com/users/423237671683620896)
 [<img align="left" alt="Banik1103 | twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/Banik1103)
 <br>
