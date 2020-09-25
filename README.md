@@ -1,4 +1,4 @@
-### Hi there, my name is Banik and I'm a hobby programmer.
+## Hi there, my name is Banik and I'm a hobby programmer.
 
 The topics I like the most are python, flutter and cybersecurity.
 
