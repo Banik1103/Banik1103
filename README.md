@@ -8,6 +8,7 @@
 <br>
 
 ## Current project I'm working on:
+  - Building a Spotify API wrapper
   - Learning C# and Java
 
 ## General stats:
