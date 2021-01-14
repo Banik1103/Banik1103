@@ -8,8 +8,7 @@
 <br>
 
 ## Current project I'm working on:
-  - Building a Spotify API wrapper
-  - Learning C# and Java
+  - Teaching a JavaScript course
 
 ## General stats:
 [![Banik's github stats](https://github-readme-stats.vercel.app/api?username=Banik1103&show_icons=true&theme=nord)](https://github.com/Banik1103/github-readme-stats)
