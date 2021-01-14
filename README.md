@@ -10,8 +10,15 @@
 ## Current project I'm working on:
   - Teaching a JavaScript course
 
-## General stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Banik1103&theme=nord)](https://github.com/anuraghazra/github-readme-stats)[![Banik's github stats](https://github-readme-stats.vercel.app/api?username=Banik1103&show_icons=true&theme=nord)](https://github.com/Banik1103/github-readme-stats)
+## 📈 Github Stats ...
+
+<a href="https://github.com/saptarshibasu15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshibasu15&langs_count=3&hide=cpp,css,html&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/saptarshibasu15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saptarshibasu15&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=12ffc4&bg_color=1d1f21"/>
+</a>
+<br/><br/>
 
 <!--
 **Banik1103/Banik1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
