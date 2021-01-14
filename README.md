@@ -11,10 +11,7 @@
   - Teaching a JavaScript course
 
 ## General stats:
-[![Banik's github stats](https://github-readme-stats.vercel.app/api?username=Banik1103&show_icons=true&theme=nord)](https://github.com/Banik1103/github-readme-stats)
-
-## Languages I use in my projects:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Banik1103&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Banik1103&theme=nord)](https://github.com/anuraghazra/github-readme-stats)[![Banik's github stats](https://github-readme-stats.vercel.app/api?username=Banik1103&show_icons=true&theme=nord)](https://github.com/Banik1103/github-readme-stats)
 
 <!--
 **Banik1103/Banik1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
