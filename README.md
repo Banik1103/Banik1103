@@ -12,11 +12,11 @@
 
 ## 📈 Github Stats ...
 
-<a href="https://github.com/saptarshibasu15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptarshibasu15&langs_count=3&hide=cpp,css,html&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
+<a href="https://github.com/Banik1103">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banik1103&langs_count=3&hide=cpp,css,html&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/saptarshibasu15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saptarshibasu15&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=12ffc4&bg_color=1d1f21"/>
+<a href="https://github.com/Banik1103">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Banik1103&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=12ffc4&bg_color=1d1f21"/>
 </a>
 <br/><br/>
 
