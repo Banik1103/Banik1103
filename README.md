@@ -9,6 +9,7 @@
 
 ## Current project I'm working on:
   - Teaching a JavaScript course
+  - Developing mobile apps in Flutter
 
 ## 📈 Github Stats ...
 
