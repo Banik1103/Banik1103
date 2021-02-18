@@ -7,7 +7,7 @@
 [<img align="left" alt="Banik1103 | twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/Banik1103)
 <br>
 
-## Current project I'm working on:
+## Current projects I'm working on:
   - Teaching a JavaScript course
   - Developing mobile apps in Flutter
 
