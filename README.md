@@ -19,7 +19,6 @@
 <a href="https://github.com/Banik1103">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Banik1103&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=12ffc4&bg_color=1d1f21"/>
 </a>
-![](https://komarev.com/ghpvc/?username=Banik1103&color=green)
 <br/><br/>
 
 <!--
