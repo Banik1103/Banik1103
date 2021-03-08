@@ -9,8 +9,7 @@
 
 ## Current projects I'm working on:
   - Teaching a JavaScript course
-  - Developing mobile apps in Flutter
-
+  - Developing mobile apps in Flutter: https://play.google.com/store/apps/details?id=com.banik1103.calculator2
 ## 📈 Github Stats ...
 
 <a href="https://github.com/Banik1103">
