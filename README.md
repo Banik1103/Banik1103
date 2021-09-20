@@ -8,7 +8,7 @@
 <br>
 
 ## Current projects I'm working on:
-  - Teaching a JavaScript course
+  - Freelancing on Fiverr: https://www.fiverr.com/banik1103
   - Developing mobile apps in Flutter: https://play.google.com/store/apps/details?id=com.banik1103.calculator2
 ## 📈 Github Stats ...
 
