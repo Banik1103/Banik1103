@@ -1,6 +1,6 @@
 ## Hi there, my name is Banik and I'm a hobby programmer.
 
-### The topics I like the most are python, flutter and cybersecurity.
+### Curently I'm working as a Flutter mobile app developer.
 
 ## Socials:
 [<img align="left" alt="Banik1103 | discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">](https://discord.com/users/423237671683620896)
@@ -8,8 +8,8 @@
 <br>
 
 ## Current projects I'm working on:
-  - Freelancing on Fiverr: https://www.fiverr.com/banik1103
-  - Developing mobile apps in Flutter: https://play.google.com/store/apps/details?id=com.banik1103.calculator2
+  - AI resume builder mobile app using Flutter
+
 ## 📈 Github Stats ...
 
 <a href="https://github.com/Banik1103">
